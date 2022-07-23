@@ -5,7 +5,7 @@
 **Pronouns: she/her/hers**
 ### 👩🏽‍💻 About Me
 
--  **🎓 Education:** Computer Science and Mathematics Double Major at the University of Florida	
+-  **🎓 Education:** B.S., Computer Science and Mathematics at the University of Florida	
 -  **⚙️ Languages:** Python, C++, Java, HTML, CSS, JavaScript
 -  **👯 Communities:** Girls Who Code, Women in Computer Science and Engineering, Association of Women in Mathematics
 -  **✨ Hobbies:** Mathematics & Classical Pianist
