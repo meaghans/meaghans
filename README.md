@@ -1,6 +1,6 @@
 ### Hello! I'm Meaghan Estrada 👋🏽
 
-[![Linkedin Badge](https://img.shields.io/badge/-Meaghan_Estrada-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meaghanestrada//)](https://www.linkedin.com/in/meaghanestrada/) [![Gmail Badge](https://img.shields.io/badge/-emeg628@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emeg628@gmail.com@gmail.com)](mailto:emeg628@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meaghanestrada//)](https://www.linkedin.com/in/meaghanestrada/) [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emeg628@gmail.com@gmail.com)](mailto:emeg628@gmail.com)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Pronouns: she/her/hers**
 ### 👩🏽‍💻 About Me
