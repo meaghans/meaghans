@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello! I'm Meaghan Estrada 👋🏾 
 
-<!--
-**meaghans/meaghans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-Meaghan_Estrada-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meaghanestrada//)](https://www.linkedin.com/in/meaghanestrada/) [![Gmail Badge](https://img.shields.io/badge/-emeg628@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emeg628@gmail.com@gmail.com)](mailto:emeg628@gmail.com)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 👩🏾‍💻 About Me
 
-Here are some ideas to get you started:
+-  **🎓 Education:** Computer Science and Mathematics Double Major at the University of Florida	
+-  **⚙️ Languages:** Python, C++, Java, HTML, CSS, JavaScript
+-  **👯 Communities:** Girls Who Code, Women in Computer Science and Engineering, Association of Women in Mathematics
+-  **✨ Hobbies:** Mathematics & Classical Pianist
+-  **💜 Pronouns:** She/Her
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
