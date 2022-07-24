@@ -8,7 +8,7 @@
 -  **🎓 Education:** B.S., Computer Science and Mathematics at the University of Florida	
 -  **⚙️ Languages:** Python, C++, Java, HTML, CSS, JavaScript
 -  **👯 Communities:** Girls Who Code, Women in Computer Science and Engineering, Association of Women in Mathematics
--  **✨ Hobbies:** Mathematics & Classical Pianist 🎼 <img src="piano.png" alt="Piano" width="20" height="20">
+-  **✨ Hobbies:** Mathematics & Classical Pianist 🎼 <img src="piano.png" alt="Piano" width="20" height="22">
 
 
 
